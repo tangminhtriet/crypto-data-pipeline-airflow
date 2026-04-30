@@ -42,7 +42,6 @@ Metabase: User-defined during first-time setup
 
 📊 Metabase Connection Settings
 After accessing http://localhost:3000, use the following parameters to establish a data connection:
-- Field:	Value
 - Database type	PostgreSQL
 - Host:	postgres_crypto
 - Port:	5432
