@@ -33,6 +33,7 @@ Metabase: http://localhost:3000
 ### 2. Metabase Dashboard
 <img width="2940" height="1662" alt="image" src="https://github.com/user-attachments/assets/3a475754-6c23-4a65-92e4-34598ecd475d" />
 
+
 🔑 Default Credentials (Local Setup)
 To access the services after running Docker Compose, use the following credentials:
 Airflow Web UI: admin / admin
