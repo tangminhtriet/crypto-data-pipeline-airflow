@@ -29,9 +29,9 @@ Metabase: http://localhost:3000
 
 ## 📸 Visualizing the Pipeline
 ### 1. Airflow Orchestration
-![Airflow DAG Success](<img src="images/airflow_success.png" width="800">)
+<img width="2940" height="1666" alt="image" src="https://github.com/user-attachments/assets/6b73f464-342c-494a-b2b0-c95b6362d59c" />
 ### 2. Metabase Dashboard
-![BTC Price Dashboard](<img src="images/metabase_dashboard.png" width="800">)
+<img width="2940" height="1662" alt="image" src="https://github.com/user-attachments/assets/3a475754-6c23-4a65-92e4-34598ecd475d" />
 
 🔑 Default Credentials (Local Setup)
 To access the services after running Docker Compose, use the following credentials:
